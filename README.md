@@ -5,8 +5,9 @@ This repository includes **static testing and test case design** for the Guru99 
 The project covers **SRS review, balance enquiry, fund transfer, and deposit transaction testing**, following a structured QA documentation approach.  
 Each section demonstrates detailed test design with emphasis on **functional accuracy and validation consistency**.
 
+
 <p align="center">
-  <img width="400" alt="Guru99 Banner" src="https://github.com/user-attachments/assets/e6d02ea9-889f-4653-8c53-7f6d5d5870c7" />
+  <img width="800" alt="v-model-in-software-testing" src="https://github.com/user-attachments/assets/dc1de9d8-d8b6-43b8-a6e8-89d8734f6ace" />
 </p>
 
 ---
@@ -17,10 +18,9 @@ Each section demonstrates detailed test design with emphasis on **functional acc
   <table>
     <tr>
       <td align="center">
-        <img width="250" alt="Home" src="https://github.com/user-attachments/assets/b98fb027-5fd7-407b-81d5-3931470d12ce" />
+        <img width="800" alt="testmanagement" src="https://github.com/user-attachments/assets/2c30191c-f796-4a9e-aa19-4e520ab2c736" />
       </td>
       <td align="center">
-        <img width="250" alt="Home2" src="https://github.com/user-attachments/assets/cb65832d-dba3-4926-a867-69b4bf134f16" />
       </td>
     </tr>
   </table>
